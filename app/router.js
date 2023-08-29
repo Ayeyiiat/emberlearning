@@ -1,5 +1,5 @@
 import EmberRouter from '@ember/routing/router';
-import config from 'ember-rentals/config/environment';
+import config from 'about-ayeyi/config/environment';
 
 export default class Router extends EmberRouter {
   location = config.locationType;

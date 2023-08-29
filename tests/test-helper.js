@@ -1,5 +1,5 @@
-import Application from 'ember-rentals/app';
-import config from 'ember-rentals/config/environment';
+import Application from 'about-ayeyi/app';
+import config from 'about-ayeyi/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';

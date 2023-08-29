@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'ember-rentals',
+    modulePrefix: 'about-ayeyi',
     environment,
     rootURL: '/',
     locationType: 'history',
